@@ -12,5 +12,7 @@ $(document).ready(function(){
     var total = leftVal + rightVal;
     $("#total").val(total);
   })
+	
+	}
 
 })
